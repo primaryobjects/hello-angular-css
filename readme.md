@@ -8,6 +8,11 @@ This project demonstrates how to use Angular and TypeScript to render a table of
 
 This project is an extension of [Hello World, Angular](https://github.com/primaryobjects/hello-angular), which was originally designed as an isomorphic web application using Angular on the frontend and a C# .NET Core REST API as the backend. This project simplifies the example using `json-server` as the backend to serve a local JSON file as a datasource, and demonstrates the differences in style between Bootstrap and Material UI.
 
+## Screenshots
+
+![Screenshot 1](./cap1.png)
+![Screenshot 2](./cap2.png)
+
 ## Quick Start
 
 To launch the application, follow these steps:
