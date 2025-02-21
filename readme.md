@@ -11,7 +11,6 @@ This project is an extension of [Hello World, Angular](https://github.com/primar
 ## Screenshots
 
 ![Screenshot 1](./screenshots/cap1.png)
-![Screenshot 2](./screenshots/cap2.png)
 
 ## Quick Start
 
